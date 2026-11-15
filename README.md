@@ -1,6 +1,6 @@
 # Vektörel Barkod & Etiket Stüdyosu (Standalone Edition)
 
-Orca Scan Barcode API ile Code 128, EAN-13, UPC-A, Data Matrix ve PDF417 formatlarında vektörel SVG barkod üretici.
+Code 128, EAN-13, UPC-A, Code 39, Data Matrix ve PDF417 formatlarında tam Türkçe karakter destekli vektörel SVG barkod üretici.
 
 - **Canlı Demo (GitHub Pages):** https://melihkarasu.github.io/barkod-studyosu/
 - **Ana Proje (Monorepo):** [melihkarasu/VibeCodedApps](https://github.com/melihkarasu/VibeCodedApps)
